@@ -3,7 +3,7 @@
 <p align="left">
 Olá, meu nome é Juan e eu sou um desenvolvedor Fullstack formado pela Driven Education. Eu amo música, animes, jogos, ciência e tecnologia.</p>
 
-Meu primeiro contato com programação foi aprendendo python na faculdade mas hoje em dia eu tenho trabalhado desenvolvendo aplicações em **Javascript / Typescript**, **Node**, **React**, **MongoDB**, **PostgreSQL**, **Java*, *Hibernate*, *MySQL*, *Apache*, *NGINX e outras tecnologias.
+Meu primeiro contato com programação foi aprendendo python na faculdade mas hoje em dia eu tenho trabalhado desenvolvendo aplicações em **Javascript / Typescript**, **Node**, **React**, **MongoDB**, **PostgreSQL**, **Java*, **Hibernate**, **MySQL**, **Apache**, **NGINX** e outras tecnologias.
 
 <div align="center">
   <h3>Olá 👋! Você pode entrar em contato comigo clicando abaixo no cards abaixo que o redirecionará ao meu email e linkedin</h2>
